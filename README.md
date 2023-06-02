@@ -1,5 +1,3 @@
-shell
-Copy code
 # Baixe o pacote Lando
 curl -sS https://lando.dev/dl/latest/linux -o lando.deb
 
