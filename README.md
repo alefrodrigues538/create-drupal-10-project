@@ -1,4 +1,3 @@
-Passo 1: Instalação do Lando
 shell
 Copy code
 # Baixe o pacote Lando
